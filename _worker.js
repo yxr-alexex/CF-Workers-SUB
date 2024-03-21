@@ -17,6 +17,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWKoOWFpeaIkeeahOmikemBk3QubWUvQ01MaXVz
 const urls = [
 	'https://sub.xf.free.hr/auto',
 	'https://hy2sub.pages.dev',
+	'https://3k.fxxk.dedyn.io/sub',
+	'https://moistr.freenods.sbs/mianfei',
+	'https://sub.kaiche.tk/?token=auto',
+	'http://allsub.king361.cf',
 	// 添加更多订阅,支持base64
 ];
 
