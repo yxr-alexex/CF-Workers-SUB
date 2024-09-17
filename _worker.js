@@ -16,7 +16,7 @@ const MainData = `
 const urls = [
 	'https://alvless.comorg.us.kg/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://vless.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://sub.kaiche.tk/?token=auto',
+	'https://sub.kaiche.tk/auto,
 	'https://king361.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://moistr.freenods.sbs/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://alvless.filegear-sg.me/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
