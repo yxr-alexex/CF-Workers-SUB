@@ -16,12 +16,13 @@ const MainData = `
 const urls = [
 	'https://sub.xf.free.hr/auto',
 	'https://alvless.comorg.us.kg/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
+	'https://VLESS.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://sub.kaiche.tk/?token=auto',
 	'https://king361.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://url.happyhour.lol/Happyhour',
 	'https://moistr.freenods.sbs/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://alvless.filegear-sg.me/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://hy2sub.pages.dev',
+	'https://3k.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	// 添加更多订阅,支持base64
 ];
 
