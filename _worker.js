@@ -15,7 +15,7 @@ const MainData = `
 //机场信息，可多个，也可为0
 const urls = [
 	'https://alvless.comorg.us.kg/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://VLESS.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
+	'https://vless.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://sub.kaiche.tk/?token=auto',
 	'https://king361.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
 	'https://moistr.freenods.sbs/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
@@ -24,7 +24,7 @@ const urls = [
 	// 添加更多订阅,支持base64
 ];
 
-let subconverter = "api.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
+let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full.ini"; //订阅配置文件
 
 export default {
