@@ -5,7 +5,7 @@ let mytoken = 'alexex'; //可以随便取，或者uuid生成，https://1024tools
 let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
-let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
+let SUBUpdateTime = 24; //自定义订阅更新时间，单位小时
 
 //自建节点
 const MainData = `
@@ -14,13 +14,10 @@ const MainData = `
 
 //机场信息，可多个，也可为0
 const urls = [
-	'https://alvless.comorg.us.kg/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://vless.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
+	'https://alvless.comorg.us.kg/sub?host=etl.alexex.us.kg&uuid=4a6379dc-cc3c-416e-967d-f4e10933f6e8',
+	'https://moist.996.buzz/vless',
 	'https://sub.kaiche.tk/auto,
-	'https://king361.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://moistr.freenods.sbs/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://alvless.filegear-sg.me/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
-	'https://3k.fxxk.dedyn.io/sub?host=qifei.alexex.us.kg&uuid=1db90153-4308-4100-82ef-82fcec493000',
+	'https://king361.fxxk.dedyn.io/auto',
 	// 添加更多订阅,支持base64
 ];
 
