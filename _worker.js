@@ -15,7 +15,7 @@ const MainData = `
 //机场信息，可多个，也可为0
 const urls = [
 	'https://alvless.comorg.us.kg/sub?host=etl.alexex.us.kg&uuid=4a6379dc-cc3c-416e-967d-f4e10933f6e8',
-	'https://moist.996.buzz/vless',
+	'https://ovo.o00o.ooo/ooo',
 	'https://sub.kaiche.tk/auto',
 	'https://king361.fxxk.dedyn.io/auto',
 	// 添加更多订阅,支持base64
